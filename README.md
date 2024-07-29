@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hello! I'm Briyanna, a dedicated and passionate cybersecurity professional with a strong background in network security and programming. With a commitment to continuous learning and a drive to secure digital environments, I'm excited to showcase my skills and experiences.
+
 
 <!--
 **Bcampbell-Cybersecurity/Bcampbell-Cybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
